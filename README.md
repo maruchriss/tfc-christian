@@ -1,6 +1,6 @@
 # tfc_christian
 
-## Project setup
+## Project setup pour inst
 ```
 npm install
 ```
